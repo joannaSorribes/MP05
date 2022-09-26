@@ -72,7 +72,7 @@ Característiques:
 
 <h2>SWIFT</h2>
 
-Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en <b>OS< (iOS,tvOS, OS X i watch OS)/b>.
+Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en <b>OS< (iOS,tvOS, OS X i watch OS)</b>.
 Va ser creat per <b>Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc</b> al <i>2014</i>. Va substituir el llenguatge de programació <b>iOS SALLETTE</b> i en breu es preveu que reemplace completament <b>Objective C</b>.
   Al <i>2015</i> va passar a ser de <i>codi obert</i> amb Llicència Apache 2.0.
 
