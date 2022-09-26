@@ -1,6 +1,6 @@
 # LLenguatges de Programació
 
-OBJECTIVE C 
+<h2>OBJECTIVE C</h2>
 
 El llenguatge de programació Objective-C es va crear al 1980 de la mà de Brad Cox i la corporació StepStone.
 
@@ -31,7 +31,7 @@ Apple té la intenció de substituir Objective-C per Swift en un futur pròxim
 
 
 
-PYTHON
+<h2>PYTHON</h2>
 Llenguatge de programació interpretat creat per Guido Van Rossum a principis dels anys 90’( al 91 es publica la 1r versió). Deu el seu nom a l’afició que tenia el seu creador al grup humorista britànic dels Monty Python. Originalment desenvolupat per sistema operatiu AMOEBA, que es basava en una arquitectura de micronúclis. 
 
 Característiques:
@@ -49,7 +49,7 @@ Característiques:
 <li>Compatible amb una amplia gama de GUI ( interfície gràfica d'usuari) que es poden importar fàcilment i que facilita la visualització de les dades.
 </ol>
 
-JAVA
+<h2>JAVA</h2>
 Creat i comercialitzat per Sun Microsystems en 1995.
 
 Característiques:
@@ -66,7 +66,7 @@ Característiques:
 <li>Avui en dia JAVA és un dels llenguatges de programació més usats a tot el món. Moltes aplicacions i llocs web no funcionaran o tindra elements que no s’executaran si no tenen JAVA instal·lat
 </ol>
 
-SWIFT
+<h2>SWIFT</h2>
 Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en OS (iOS,tvOS, OS X i watch OS).
 Va ser creat per Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc. al 2014. Va substituir el llenguatge de programació iOS SALLETTE i en breu es preveu que reemplace completament Objective C.
 Al 2015 va passar a ser de codi obert amb Llicència Apache 2.0.
