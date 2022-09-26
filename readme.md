@@ -1,6 +1,6 @@
 # LLenguatges de Programació
 
-<h2>OBJECTIVE C</h2>
+<h2 style="color:red>OBJECTIVE C</h2>
 
 El llenguatge de programació Objective-C es va crear al 1980 de la mà de Brad Cox i la corporació StepStone.
 
