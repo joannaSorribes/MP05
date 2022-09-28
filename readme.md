@@ -52,15 +52,14 @@ Apple té la intenció de substituir **Objective-C** per **Swift** en un futur p
 
 `#import <Foundation/Foundation.h>`
 `int main (int argc, const char * argv[])`
-{NSLog (@"Indica el teu usuari");
- char user=0;
- scanf("%s, &user");
- printf("user=", user);
+`{NSLog (@"Indica el teu usuari");`
+ `char user=0;`
+ `scanf("%s, &user");`
+ `printf("user=", user);`
  
-        return 0;
-}`
+        `return 0;`
+`}`
 
-d <NSThread: 0x5654b54be190>{name = (null), num = 1279}
 2022-09-28 15:56:40.899 a.out[1279:1279] Indica el teu usuari
 Joanna
 user=
