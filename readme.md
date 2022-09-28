@@ -59,7 +59,7 @@ La companyuia de Sun Microsystems va crear de la mà del Green Team (James Gosli
 Van fer una demostració de com funcionava el llenguatge mitjançant una televisió interactiva però era massa avançat per la televisió interactiva digital per cable d'aquell moment.
 
 El lleguatge va passar a dir-se **GREEN* i finalment es va dir **JAVA** en referència al cafè del mateix nom i d'aquí també la icona de la tassa.
-Degut a la popularitat de **C/C++**, James Gosling va dissenyar aquest llenguatge emprant un estil de sintaxi de **C/C++** i la seua filosofia "escriu un cop, executa en qualsevol lloc".
+Degut a la popularitat de **C/C++**, James Gosling va dissenyar aquest llenguatge emprant un estil de sintaxi de **C/C++** i la seua filosofia "*escriu un cop, executa en qualsevol lloc*".
 
 
 Creat i comercialitzat per **Sun Microsystems**en *1995*.
