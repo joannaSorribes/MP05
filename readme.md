@@ -10,20 +10,23 @@ L’any *1988* va ser afiliada al llenguatge de programació Nextstep i en 1992 
 Actualment **Objective-C** és el principal llenguatge utilitzat per al desenvolupament d app en **iOS**. 
 És un llenguatge més antic que java(95), python(91), php (95) etc i és nota en algunes de les seves característiques que després veurem.
 
-Característiques:
+**Característiques:**
+### Avantatges
 
-1.És un llenguatge d’alt nivell compatible amb molts softwares i contextos de programació.
-2.Les sentències de control de flux com while, for, do, while estan immersos.
-3.Conversions explicites i implicites entre dos tipus.
-4.És dinàmic i comparat amb altres com java dona més llibertat
-5.Àmbits variables, tals com globals, estàtiques i locals.
-6.No fa comprovacions en la compilació, es fan al temps d’execució. Els errors no es detecten fins al final però té recursos per limitar aquests inconvenients.
-7.Orientat a objectes que poden rebre i enviar missatges.
-8.Com a llenguatge antic no té recolector de basura però a implementat ARC un recurs per eliminar objectes i no tampoc es poden usar excepcions.
-9.Tots els seus mètodes són públics
-10.Les classes es guarden en dos fitxers .h i .m.
-11.Permet enviar missatges a Nill(null) per el qual si es crida un mètode d’una variable no inicialitzada no es veuran els errors, arrancarà però no farà res.
-12.Maneig del punter un poc complicat.
+1. És un llenguatge d’alt nivell compatible amb molts softwares i contextos de programació.
+2. Les sentències de control de flux com while, for, do, while estan immersos.
+3. Conversions explicites i implicites entre dos tipus.
+4. És dinàmic i comparat amb altres com java dona més llibertat
+5. Àmbits variables, tals com globals, estàtiques i locals.
+6. No fa comprovacions en la compilació, es fan al temps d’execució. Els errors no es detecten fins al final però té recursos per limitar aquests inconvenients.
+7. Orientat a objectes que poden rebre i enviar missatges.
+8. Com a llenguatge antic no té recolector de basura però a implementat ARC un recurs per eliminar objectes i no tampoc es poden usar excepcions.
+9. Tots els seus mètodes són públics
+10. Les classes es guarden en dos fitxers .h i .m.
+11. Permet enviar missatges a Nill(null) per el qual si es crida un mètode d’una variable no inicialitzada no es veuran els errors, arrancarà però no farà res.
+12. Maneig del punter un poc complicat.
+
+### Inconvenients
   
 Apple té la intenció de substituir **Objective-C** per **Swift** en un futur pròxim.
 
@@ -33,21 +36,22 @@ Apple té la intenció de substituir **Objective-C** per **Swift** en un futur p
 
 Llenguatge de programació interpretat creat per **Guido Van Rossum** a principis dels anys **90’**( al 91 es publica la 1r versió). Deu el seu nom a l’afició que tenia el seu creador al grup humorista britànic dels Monty Python. Originalment desenvolupat per sistema operatiu AMOEBA, que es basava en una arquitectura de micronúclis. 
 
-Característiques:
+**Característiques:**
+### Avantatges
 
+1. És un llenguatge simple i fàcil per a la iniciació en programació.
+2. Portable. Permet la seva utilització en diverses plataformes al ser de naturaleza Open Source.(Linux, MacOs, Unix i WIndows)
+3. Llenguatge orientat a objectes.
+4. Llenguatge d’alt nivell.
+5. Permet la seva implementació dins d’un programa **C/C++**.
+6. Disposa de extenses llibreries.
+7. Sintaxis clara i de fàcil enteniment.
+8. “Tipado” dinàmic pel qual no és necessari indicar el tipus de dades. S'adapta al contingut que se li escriu (tot i que pot suposar inconvenients d’optimització de memoria o errors al escriure entre d’altres)
+9. Disposa de suport i informació per múltiple varietats de base de dades i compta amb una gran comunitat.
+10. Molt emprat per al **Big Data**, amb mòduls com **NumPy**, **Pandas** o **Matplotlib**…
+11. Compatible amb una amplia gama de **GUI** ( interfície gràfica d'usuari) que es poden importar fàcilment i que facilita la visualització de les dades.
 
-1.És un llenguatge simple i fàcil per a la iniciació en programació.
-2.Portable. Permet la seva utilització en diverses plataformes al ser de naturaleza Open Source.(Linux, MacOs, Unix i WIndows)
-3.Llenguatge orientat a objectes.
-4.Llenguatge d’alt nivell.
-5.Permet la seva implementació dins d’un programa **C/C++**.
-6.Disposa de extenses llibreries.
-7.Sintaxis clara i de fàcil enteniment.
-8.“Tipado” dinàmic pel qual no és necessari indicar el tipus de dades. S'adapta al contingut que se li escriu (tot i que pot suposar inconvenients d’optimització de memoria o errors al escriure entre d’altres)
-9.Disposa de suport i informació per múltiple varietats de base de dades i compta amb una gran comunitat.
-10.Molt emprat per al **Big Data**, amb mòduls com **NumPy**, **Pandas** o **Matplotlib**…
-11Compatible amb una amplia gama de **GUI** ( interfície gràfica d'usuari) que es poden importar fàcilment i que facilita la visualització de les dades.
-
+### Inconvenients
 
 #JAVA
 
@@ -65,7 +69,6 @@ Con el compilador se convierte el código fuente que reside en archivos cuya ext
 **Característiques:**
 ### Avantatges
 
-
 1.És un llenguatge híbrid d’alt nivell que deriva del **C** i del **C++** però més simple potent.
 2.Llenguatge orientat a objectes i que s’executen en qualsevol dispositiu.
 3.Disposa d’una gran biblioteca estàndard i d'eines per a poder distribuir els programes.
@@ -78,6 +81,7 @@ Con el compilador se convierte el código fuente que reside en archivos cuya ext
 10.Avui en dia**JAVA** és un dels llenguatges de programació més usats a tot el món. Moltes aplicacions i llocs web no funcionaran o tindra elements que no s’executaran si no tenen **JAVA** instal·lat.
 
 ### Inconvenients
+
 1. Al ser un llenguatge que també interpreta el rendiment a l'hora d'executar els programes pot disminuir, ja que es poden presentar variables no desitjades en donar una ordre inicial.
 2. Per a iniciar-se en la programació no és el llenguatge mé recomanable, ja que la pogromació orientada a objectes és una evolució de altres composicions informatiques.
 3. La sintaxi que utilitza és un poc complicada i te una evolució algo més lenta que altres llenguatges com **Python**.
