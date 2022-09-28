@@ -47,11 +47,11 @@ NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
    [pool drain];
         return 0;
 }`
+
 *2022-09-28 14:53:52.048 a.out[2101:2101] Hello, World!*
 
 `#import <Foundation/Foundation.h>
 int main (int argc, const char * argv[])
-
 
 {
 
@@ -61,8 +61,8 @@ int main (int argc, const char * argv[])
  printf("user=", user);
  
         return 0;
-}
-`
+}`
+
 d <NSThread: 0x5654b54be190>{name = (null), num = 1279}
 2022-09-28 15:56:40.899 a.out[1279:1279] Indica el teu usuari
 Joanna
