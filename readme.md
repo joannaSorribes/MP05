@@ -89,13 +89,25 @@ Con el compilador se convierte el código fuente que reside en archivos cuya ext
 5. Es necessiten dispositius i equips que soportin la potència dels programes que s'executen amb la tecnologia provocant la lentitud en les aplicacions
 
 6. Opcions 3D limitades.
-7. No compta amb una funció de copia de seguretat
-8. 
+7. No compta amb una funció de copia de seguretat.
 
 Java trabaja principalmente en el almacenamiento y no se enfoca en la copia de seguridad de los datos. Esta es una de las desventajas del lenguaje de programación Java que hace que se pierda el interés y las valoraciones entre los usuarios.
 
 
+## Entorns on més s'utilitza java
 
+1. Video Jocs. Java pot ser una gran opció per al desenvolupament de videojocs. Disposa de un gran número de frameworks i llibreries disponibles com **OpenGL**.
+2. Big Data. La majoria de programadors escollixen Java a l'hora de treballar en Big Data. Una de les raons d'aquesta preferència és que una de les eïnes més famoses del Big data utilitza Java. A més, té una gran comunitat per donar soport i ajuda en Big Data.
+3. Construir aplicacions webs. Disposa d'alguns dels més populars frameworks com **Spring**, **Hibernate**, entre d'altres, per construir aplicacions web.
+4. Contruir interficies gràfiques per aplicacions d'escritori.
+5. Aplicacions d'Android. Idioma oficial per desenvolupar en Androir.
+
+## Exemple Codi
+`public class HolaMon {
+    public static void main(String[] args) {
+        System.out.println("Hola, món!");
+    }
+}`
 
 
 #SWIFT
