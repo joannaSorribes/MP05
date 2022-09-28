@@ -2,12 +2,12 @@
 
 <h2>OBJECTIVE C</h2>
 
-El llenguatge de programació <b>Objective-C</b> es va crear al 1980 de la mà de <b>Brad Cox</b> i la corporació StepStone.
+El llenguatge de programació <strong>Objective-C</strong> es va crear al 1980 de la mà de <strong>Brad Cox</strong> i la corporació StepStone.
 
 Es tracta d’un llenguatge orientat als objectes i que es basa en el llenguatge C estandar.
-Permet generar objectes que tenen una similitud amb <b>SmallTalk</b>.
+Permet generar objectes que tenen una similitud amb <strong>SmallTalk</strong>.
 L’any 1988 va ser afiliada al llenguatge de programació Nextstep i en 1992 va ser alliberar mitjançant la llicència GPL para els software de compilació GCC.
-Actualment <b>Objective-C</b> és el principal llenguatge utilitzat per al desenvolupament d app en <b>iOS</b>. 
+Actualment <strong>Objective-C</strong> és el principal llenguatge utilitzat per al desenvolupament d app en <strong>iOS</strong>. 
 És un llenguatge més antic que java(95), python(91), php (95) etc i és nota en algunes de les seves característiques que després veurem.
 
 Característiques:
@@ -33,7 +33,7 @@ Apple té la intenció de substituir Objective-C per Swift en un futur pròxim
 
 <h2>PYTHON</h2>
 
-Llenguatge de programació interpretat creat per <b>Guido Van Rossum</b> a principis dels anys <i>90’</i>( al 91 es publica la 1r versió). Deu el seu nom a l’afició que tenia el seu creador al grup humorista britànic dels Monty Python. Originalment desenvolupat per sistema operatiu AMOEBA, que es basava en una arquitectura de micronúclis. 
+Llenguatge de programació interpretat creat per <b>Guido Van Rossum</b> a principis dels anys <em>90’</em>( al 91 es publica la 1r versió). Deu el seu nom a l’afició que tenia el seu creador al grup humorista britànic dels Monty Python. Originalment desenvolupat per sistema operatiu AMOEBA, que es basava en una arquitectura de micronúclis. 
 
 Característiques:
 
@@ -42,18 +42,18 @@ Característiques:
 <li>Portable. Permet la seva utilització en diverses plataformes al ser de naturaleza Open Source.(Linux, MacOs, Unix i WIndows)
 <li>Llenguatge orientat a objectes.
 <li>Llenguatge d’alt nivell.
-<li>Permet la seva implementació dins d’un programa <b>C/C++</b>.
+<li>Permet la seva implementació dins d’un programa <strong>C/C++</strong>.
 <li>Disposa de extenses llibreries.
 <li>Sintaxis clara i de fàcil enteniment.
 <li>“Tipado” dinàmic pel qual no és necessari indicar el tipus de dades. S'adapta al contingut que se li escriu (tot i que pot suposar inconvenients d’optimització de memoria o errors al escriure entre d’altres)
 <li>Disposa de suport i informació per múltiple varietats de base de dades i compta amb una gran comunitat.
-<li>Molt emprat per al<b>Big Data</b>, amb mòduls com <b>NumPy</b>, <b>Pandas</b> o <b>Matplotlib</b>…
-<li>Compatible amb una amplia gama de <b>GUI</b> ( interfície gràfica d'usuari) que es poden importar fàcilment i que facilita la visualització de les dades.
+<li>Molt emprat per al<strong>Big Data</strong>, amb mòduls com <strong>NumPy</strong>, <strong>Pandas</strong> o <strong>Matplotlib</strong>…
+<li>Compatible amb una amplia gama de <strong>GUI</strong> ( interfície gràfica d'usuari) que es poden importar fàcilment i que facilita la visualització de les dades.
 </ol>
 
 <h2>JAVA</h2>
 
-Creat i comercialitzat per <b>Sun Microsystems</b> en <i>1995</i>.
+Creat i comercialitzat per <strong>Sun Microsystems</strong> en <em>1995</em>.
 
 Característiques:
 
@@ -67,14 +67,14 @@ Característiques:
 <li>Sintaxi rigurosa que permet evitar que es trenque el codi i que es corrompi.
 <li>Multifil. Permet dur a terme diverses tasques simultàniament dins del mateix programa que permet millorar el rendiment i la velocitat d’execució.
 <li>Adaptabilitat a diferents tipus de dispositius (tablets, telèfons intel·ligents, portàtils, ordinadors…)
-<li>Avui en dia <b>JAVA</b> és un dels llenguatges de programació més usats a tot el món. Moltes aplicacions i llocs web no funcionaran o tindra elements que no s’executaran si no tenen <b>JAVA</b> instal·lat.
+<li>Avui en dia <strong>JAVA</strong> és un dels llenguatges de programació més usats a tot el món. Moltes aplicacions i llocs web no funcionaran o tindra elements que no s’executaran si no tenen <strong>JAVA</strong> instal·lat.
 </ol>
 
 <h2>SWIFT</h2>
 
-Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en <b>OS< (iOS,tvOS, OS X i watch OS)</b>.
-Va ser creat per <b>Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc</b> al <i>2014</i>. Va substituir el llenguatge de programació <b>iOS SALLETTE</b> i en breu es preveu que reemplace completament <b>Objective C</b>.
-  Al <i>2015</i> va passar a ser de <i>codi obert</i> amb Llicència Apache 2.0.
+Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en <strong>OS< (iOS,tvOS, OS X i watch OS)</strong>.
+Va ser creat per <strong>Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc</strong> al <em>2014</em>. Va substituir el llenguatge de programació <strong>iOS SALLETTE</strong> i en breu es preveu que reemplace completament <strong>Objective C</strong>.
+  Al <em>2015</em> va passar a ser de <em>codi obert</em> amb Llicència Apache 2.0.
 
 Característiques:
   
@@ -83,7 +83,7 @@ Característiques:
 <li>Eina intuitiva i amigable amb el programador, fàcil de llegir i escriure. Molt recomendable per iniciar-se a la programació.
 <li>Llenguatge orientat a objectes.
 <li>Proporciona seguretat al programador gràcies al sistema per detectar errors fàcilment permeten corregir els errors de l’app abans que surti al mercat.
-<li>Destinat a substituir els llenguatges C <b>(C, C++ i Objective C)</b> pel que fa a apps <b>Apple</b>.
+<li>Destinat a substituir els llenguatges C <strong>(C, C++ i Objective C)</strong> pel que fa a apps <strong>Apple</strong>.
 <li>Sintaxis fàcil d’utilitzar i de característiques que la majoria de desenvolupadors esperen.
 <li>Compta amb una gran comunitat activa que ofereix suport, ajuda i nous recursos per poder aprendre i dominar aquest llenguatge.
 <li>Multiparadigma. Pot treballar amb diferents estils de programació, permeten decidir al profesional com treballar amb ell d’acord amb el tipus de projecte que es vagi a desenvolupar i la plataforma a la qual es vulgui enfocar.
