@@ -55,6 +55,16 @@ Llenguatge de programació interpretat creat per **Guido Van Rossum** a principi
 
 ### Entorns on s'utilitza
 
+1. Videojocs. Permet la creaió i manipulació de gràfics i entorns 3D interactius.
+2. Analitzar Big Data. Permet analitzar gran quantitats de dades en temps real i disposa de tot tipus de biblioteques de processament.
+3. IA. Llenguatge molt conegut per la programació i desenvolupament de intel·ligència artificial de gran eficacia.
+4. Data Science. Utilitzat per molts científics per estudiar les grans quantitats de dades que d'un altra manera no seria possible. Es beneficien del seu us en el BigData.
+5. Desenvolupament Web. Moltes aplicacions i llocs webs utilitzen aquest llenguatge ja que és un sistema estable i eficient.
+6. Machine Learning. Com a llenguatge molt utilitzat per desenvolupar IA tamb
+
+
+Machine learning: otro de los usos más comunes del Python, o donde resalta su potencial, es en el Machine Learning. Permite otorgar no solo inteligencia a las máquinas o robots, sino que los dota de capacidad de aprender por medio de la experiencia, pudiendo realizar nuevas tareas con el paso del tiempo. 
+
 ### Exemple Codi
 'print('Hola, món!')'
 
