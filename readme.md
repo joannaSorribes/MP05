@@ -53,6 +53,16 @@ Llenguatge de programació interpretat creat per **Guido Van Rossum** a principi
 
 ### Inconvenients
 
+### Entorns on s'utilitza
+
+### Exemple Codi
+'print('Hola, món!')'
+
+Hola, món!
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+
 #JAVA
 
 La companyuia de Sun Microsystems va crear de la mà del Green Team (James Gosling) aquest llenguatge per a dispositius digitals de consum. En un principi es va anomenar **OAK** que vol dir *Roble* en inglès perquè hi havia un a fora de la seva oficina.
@@ -108,6 +118,11 @@ Java trabaja principalmente en el almacenamiento y no se enfoca en la copia de s
         System.out.println("Hola, món!");
     }
 }`
+
+
+Hola, món!
+
+Process finished with exit code 0
 
 
 #SWIFT
