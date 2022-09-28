@@ -38,20 +38,20 @@ Apple té la intenció de substituir **Objective-C** per **Swift** en un futur p
 
 ### Exemple Codi
 
-`#import <Foundation/Foundation.h>
-int main (int argc, const char * argv[])
+`#import <Foundation/Foundation.h>`
+`int main (int argc, const char * argv[])`
 
-{
-NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
- NSLog (@"Hello, World!");
-   [pool drain];
-        return 0;
-}`
+`{`
+`NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];`
+ `NSLog (@"Hello, World!");`
+   `[pool drain];`
+        `return 0;`
+`}`
 
 *2022-09-28 14:53:52.048 a.out[2101:2101] Hello, World!*
 
-`#import <Foundation/Foundation.h>
-int main (int argc, const char * argv[])
+`#import <Foundation/Foundation.h>`
+`int main (int argc, const char * argv[])`
 {NSLog (@"Indica el teu usuari");
  char user=0;
  scanf("%s, &user");
@@ -181,7 +181,8 @@ Java trabaja principalmente en el almacenamiento y no se enfoca en la copia de s
     public static void main(String[] args) {
         System.out.println("Hola, món!");
     }
-}` 
+}
+` 
 
 Hola, món!
 
@@ -249,7 +250,12 @@ Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe G
 
 Com hem explicat anteriorment és un llenguatge de programació que s’utilitza per al desenvolupament Apps de entorn iOS i macOS.
 
+## Ofertes de Treball
 
+**Objective C**
+**Python**
+**Java**
+**Swift**
 
 ## Webgrafia 
 https://javadesdecero.es/fundamentos/breve-historia-caracteristicas-y-aplicaciones/
