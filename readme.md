@@ -52,10 +52,7 @@ NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
 
 `#import <Foundation/Foundation.h>
 int main (int argc, const char * argv[])
-
-{
-
- NSLog (@"Indica el teu usuari");
+{NSLog (@"Indica el teu usuari");
  char user=0;
  scanf("%s, &user");
  printf("user=", user);
