@@ -129,7 +129,7 @@ Press Enter to exit terminal
 
 #JAVA
 
-La companyuia de Sun Microsystems va crear de la mà del Green Team (James Gosling) aquest llenguatge per a dispositius digitals de consum. En un principi es va anomenar **OAK** que vol dir *Roble* en inglès perquè hi havia un a fora de la seva oficina.
+La companyia de Sun Microsystems va crear de la mà del Green Team (James Gosling) aquest llenguatge per a dispositius digitals de consum. En un principi es va anomenar **OAK** que vol dir *Roble* en inglès perquè hi havia un a fora de la seva oficina.
 Van fer una demostració de com funcionava el llenguatge mitjançant una televisió interactiva però era massa avançat per la televisió interactiva digital per cable d'aquell moment.
 
 El lleguatge va passar a dir-se **GREEN* i finalment es va dir **JAVA** en referència al cafè del mateix nom i d'aquí també la icona de la tassa.
