@@ -251,18 +251,19 @@ Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe G
 Com hem explicat anteriorment és un llenguatge de programació que s’utilitza per al desenvolupament Apps de entorn iOS i macOS.
 
 ## Exemple Codi
-`import Foundation
+`import Foundation`
  
-print("Hola, món!")`
+`print("Hola, món!")`
 Hola, món!
 
-`import Foundation
+`import Foundation`
  
-print("Introdueix user")
+`print("Introdueix user")`
  
-var username = readLine()!
+`var username = readLine()!`
  
-print(username)`
+`print(username)`
+
 Introdueix usuari
 nil
 
