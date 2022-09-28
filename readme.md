@@ -59,7 +59,7 @@ La companyuia de Sun Microsystems va crear de la mà del Green Team (James Gosli
 Van fer una demostració de com funcionava el llenguatge mitjançant una televisió interactiva però era massa avançat per la televisió interactiva digital per cable d'aquell moment.
 
 El lleguatge va passar a dir-se **GREEN* i finalment es va dir **JAVA** en referència al cafè del mateix nom i d'aquí també la icona de la tassa.
-Degut a la popularitat de **C/C++**, James Gosling va dissenyar aquest llenguatge emprant un estil de sintaxi de **C/C++** i la seua filosofia `escriu un cop, executa en qualsevol lloc`.
+Degut a la popularitat de **C/C++**, James Gosling va dissenyar aquest llenguatge emprant un estil de sintaxi de **C/C++** i la seua filosofia "escriu un cop, executa en qualsevol lloc".
 
 
 Creat i comercialitzat per **Sun Microsystems**en *1995*.
@@ -97,13 +97,14 @@ Java trabaja principalmente en el almacenamiento y no se enfoca en la copia de s
 
 
 
+
 #SWIFT
 
 Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en **OS< (iOS,tvOS, OS X i watch OS)**.
 Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc** al *2014*. Va substituir el llenguatge de programació **iOS SALLETTE**i en breu es preveu que reemplace completament **Objective C**.
   Al *2015* va passar a ser de *codi obert* amb Llicència Apache 2.0.
-
-Característiques:
+**Característiques:**
+### Avantatges
  
 
 1.Llenguatge de programació d’alt nivell molt potent.
@@ -118,6 +119,7 @@ Característiques:
 11.Iteració concisa i ràpida.
 12.Admet extensions, mètodes i protocols en les seues estructures.
 
+### Inconvenients
 
 
 
