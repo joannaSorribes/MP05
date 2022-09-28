@@ -250,12 +250,32 @@ Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe G
 
 Com hem explicat anteriorment és un llenguatge de programació que s’utilitza per al desenvolupament Apps de entorn iOS i macOS.
 
+## Exemple Codi
+`import Foundation
+ 
+print("Hola, món!")`
+Hola, món!
+
+`import Foundation
+ 
+print("Introdueix user")
+ 
+var username = readLine()!
+ 
+print(username)`
+Introdueix usuari
+nil
+
+
 ## Ofertes de Treball
 
-**Objective C**
-**Python**
-**Java**
-**Swift**
+**Objective C** Ha infojobs h¡apareixen en aquest moment unes 62 ofertes de treball per Swift, dos d'elles no són a nivell nacional. Indeed disposa de 8 ofertes de treball per aquest llenguatge. En canvi Indeed Canada oferta 400 treballs.
+
+**Python** Infojobs disposa de 171 ofertes, 97 de les quals a BArcelona. Indeed oferta 175 llocs de treball. Indeed CAnada 3.805 llocs de treball.
+
+**Java** Infojobs disposa de 382 ofertes de treball per java developer. 157 d'aquestes a Barcelona. A la web de Indeed apareixen 732 ofertes de treball. Indeed Canada 6.684 llocs de treball.
+
+**Swift** Infojobs disposa de 74 ofertes per swift developer, 45 de les quas a Madriz. Indeed 38 llocs de treball. Indeed Canada 353 ofertes.
 
 ## Webgrafia 
 https://javadesdecero.es/fundamentos/breve-historia-caracteristicas-y-aplicaciones/
