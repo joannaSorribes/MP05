@@ -1,7 +1,7 @@
 # LLenguatges de Programació
 //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ 
 
-#OBJECTIVE C
+# OBJECTIVE C
 
 El llenguatge de programació **Objective-C** es va crear al 1980 de la mà de **Brad Cox** i la corporació StepStone.
 
@@ -69,7 +69,7 @@ Press ENTER to exit console.
 
 //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ 
 
-#PYTHON
+# PYTHON
 
 Llenguatge de programació interpretat creat per **Guido Van Rossum** a principis dels anys **90’**( al 91 es publica la 1r versió). Deu el seu nom a l’afició que tenia el seu creador al grup humorista britànic dels Monty Python. Originalment desenvolupat per sistema operatiu AMOEBA, que es basava en una arquitectura de micronuclis. 
 
@@ -126,7 +126,7 @@ Press Enter to exit terminal
 
 //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ 
 
-#JAVA
+# JAVA
 
 La companyia de Sun Microsystems va crear de la mà del Green Team (James Gosling) aquest llenguatge per a dispositius digitals de consum. En un principi es va anomenar **OAK** que vol dir *Roure* en anglès perquè hi havia un a fora de la seva oficina.
 Van fer una demostració de com funcionava el llenguatge mitjançant una televisió interactiva però era massa avançat per la televisió interactiva digital per cable d'aquell moment.
@@ -210,7 +210,7 @@ jousomi27@iMac-de-Joanna Mp5 %
 
 //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ //**\\ 
 
-#SWIFT
+# SWIFT
 
 Es un llenguatge de programació especialitzat para el desenvolupament d'aplicacions en **OS (iOS,tvOS, OS X i watch OS)**.
 Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe Groff juntament amb Apple Inc** al *2014*. Va substituir el llenguatge de programació **iOS SALLETTE**i en breu es preveu que reemplaci completament **Objective C**.
