@@ -38,28 +38,26 @@ Apple té la intenció de substituir **Objective-C** per **Swift** en un futur p
 
 ### Exemple Codi
 
-```
-#import <Foundation/Foundation.h>
-int main (int argc, const char * argv[])
+`#import <Foundation/Foundation.h>`
+`int main (int argc, const char * argv[])`
 
-{
-NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
- NSLog (@"Hello, World!");
-   [pool drain];
-        return 0;
-}```
+`{`
+`NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];`
+ `NSLog (@"Hello, World!");
+   `[pool drain];
+        `return 0;`
+`}`
 
 *2022-09-28 14:53:52.048 a.out[2101:2101] Hello, World!*
 
-```#import <Foundation/Foundation.h>
-int main (int argc, const char * argv[])
-{NSLog (@"Indica el teu usuari");
- char user=0;
- scanf("%s, &user");
- printf("user=", user);
+`#import <Foundation/Foundation.h>`int main (int argc, const char * argv[])`
+`{NSLog (@"Indica el teu usuari");`
+ `char user=0;`
+ `scanf("%s, &user");
+`printf("user=", user);`
  
-        return 0;
-}```
+        `return 0;`
+}`
 
 2022-09-28 15:56:40.899 a.out[1279:1279] Indica el teu usuari
 Joanna
@@ -107,9 +105,7 @@ Llenguatge de programació interpretat creat per **Guido Van Rossum** a principi
 
 ### Exemple Codi
 
-```
-print('Hola, món!')
-```
+`print('Hola, món!')`
 
 Hola, món!
 
@@ -117,10 +113,8 @@ Hola, món!
 Press Enter to exit terminal
 
 
-```
-nombre = input("Indica el teu nom d'usuari ")
-print(nombre)
-```
+`nombre = input("Indica el teu nom d'usuari ")`
+`print(nombre)
 
 Indica el teu nom d'usuari 
 Joanna
@@ -178,36 +172,32 @@ Oracle Corp va adquirir Sun Microsystems juntament amb Java al *2010*.
 5. Aplicacions d'Android. Idioma oficial per desenvolupar en Androir.
 
 ## Exemple Codi
-```
-public class HolaMon {
-    public static void main(String[] args) {
-        System.out.println("Hola, món!");
-    }
-}
-``` 
+`public class HolaMon {`
+    `public static void main(String[] args) {`
+        `System.out.println("Hola, món!");`
+    `}`
+`}` 
 
 Hola, món!
 
 Process finished with exit code 0
 
 
-```
-import java.util.Scanner;
-public class UserName {
-    public static void main (String args[]){
-         Scanner sc = new Scanner(System.in);
-        // demanar introduir una tecla 
-        String user;
-        System.out.println("Indica el teu nom d'usuari:");
+`import java.util.Scanner;`
+`public class UserName {`
+    `public static void main (String args[]){`
+         `Scanner sc = new Scanner(System.in);`
+        `// demanar introduir una tecla` 
+        `String user;`
+        `System.out.println("Indica el teu nom d'usuari:");`
         
        
-        user = sc.nextLine();
-        System.out.println(user);
+        `user = sc.nextLine();`
+        `System.out.println(user);`
 
-    }
+   ` }`
 
-}
-```
+}`
 jousomi27@iMac-de-Joanna Mp5 %  /usr/bin/env /Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=
 n,suspend=y,address=localhost:51241 -XX:+ShowCodeDetailsInExceptionMessages -cp /Users/jousomi27/Desktop/Mp5/bin App 
 Indica el teu nom d'usuari:
@@ -255,23 +245,22 @@ Va ser creat per **Chris Lattner, Doug Gregor, John McCall, Ted Kremenek i Joe G
 Com hem explicat anteriorment és un llenguatge de programació que s’utilitza per al desenvolupament Apps de entorn iOS i macOS.
 
 ## Exemple Codi
-```
-import Foundation
- 
-print("Hola, món!")
-Hola, món!
 
-import Foundation
+`import Foundation`
  
-print("Introdueix user")
- 
-var username = readLine()!
- 
-print(username)
-```
+`print("Hola, món!")`
+`Hola, món!`
 
-Introdueix usuari
-nil
+`import Foundation`
+ 
+`print("Introdueix user")`
+ 
+`var username = readLine()!`
+ 
+`print(username)`
+
+`Introdueix usuari`
+`nil`
 
 
 ## Ofertes de Treball
