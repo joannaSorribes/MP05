@@ -100,17 +100,24 @@ https://go.dev/play/
 
 
 
-** PYTHON d6
-``` import random
+**PYTHON d6**
+
+```
+import random
  
 numero1 = random.randint(0,10)
 
-print ('El numero que has obtingut és ',numero1 ```
+print ('El numero que has obtingut és ',numero1 
+
+```
 
 
 Obrim un document nou on escrivim el codi font amb la funció per realitzar el programa del dau.
 
 Guardem el document amb extensió del llenguatge codi font que untilitzem, en aquest cas és llenguatge Python.El document serà d6_Python.py.
+
+![python](1.png)![1](https://user-images.githubusercontent.com/113586183/194021408-1c5cedc6-8a70-43a8-98d8-7f4b583683ef.png)
+
 
 Obrim el terminal de la carpeta on està el document amb el codi que volem executar.
 
@@ -120,7 +127,7 @@ Instal·lem l'extensió python
 
 Un cop tenim l'extensió de Python instal·lada introduim el següent comandament : ``` python3 d6_Python.py``` i obtenim el resultat del programa.
 
-
+![python](2.png)![2](https://user-images.githubusercontent.com/113586183/194021919-46bbc921-4ded-47da-a0bb-9fe0cdb62d90.png)
 
 
 
