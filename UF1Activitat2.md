@@ -62,12 +62,12 @@ Per poder passar de codi font a codi objecte el que farem sera la comanda “go 
 
 
 
-● Mostreu les extensions dels fitxers de codi font i codi objecte.
+***Mostreu les extensions dels fitxers de codi font i codi objecte***
 
 
 
 
-● Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles.
+***Expliqueu els avantatges d’utilitzar un llenguatge compilat i els punts febles***
 
 Unes de les avantatges serien; La pròpia correcció dels errors en la compilació, ja que ens avisa abans de crear l'executable els erros que hi han. L'execució és molt més ràpida pel fet que no passa d'instrucció a instrucció executa tot el bloc una volta compilat.
 
@@ -77,7 +77,7 @@ Els punts febles serien; No podem corregir errors fins que no acabi de compilar,
 
 
 
-● Busqueu 3 IDEs de desenvolupament pel llenguatge.
+***Busqueu 3 IDEs de desenvolupament pel llenguatge***
 Els IDEs serien:
 
 Visual studio code
@@ -131,28 +131,28 @@ Un cop tenim l'extensió de Python instal·lada introduim el següent comandamen
 
 
 
-● Descriviu com passar de codi font a codi objecte.
+***Descriviu com passar de codi font a codi objecte***
 
-per passar de codi font a codi objecte introduïm la comanda: ```pyhton3d6_Python.py```
+Per passar de codi font a codi objecte introduïm la comanda: ```pyhton3d6_Python.py```
 
-● Mostreu les extensions dels fitxers de codi font i codi objecte.
-
+***Mostreu les extensions dels fitxers de codi font i codi objecte***
 
 **Ventatges i desventatges llenguatge interpretat
 
-**Pros
-És independent de la màquina i sistema operatiuc, es poden executar en qualsevol plataforma.
-Es pot modificar el codi mentre s'executa.
-Ocupen menys lloc en la memòria
-L'entorn de treball s'encarrega de que el hardware executi les instruccions.
-Molt emprat en desenvolupament web i en electrònica.
+**Pros**
 
-**Inconvenients
+-És independent de la màquina i sistema operatiuc, es poden executar en qualsevol plataforma.
+-Es pot modificar el codi mentre s'executa.
+-Ocupen menys lloc en la memòria
+-L'entorn de treball s'encarrega de que el hardware executi les instruccions.
+-Molt emprat en desenvolupament web i en electrònica.
 
-La alta portabilidad afecta a la velocita al executar el codi.
-Difícils de depurar.
-Requereix d'un software per interpretar les instruccions del procesador.
-No todos los software es troben disponibles en totes les plataformes.
+
+**Inconvenients**
+-La alta portabilidad afecta a la velocita al executar el codi.
+-Difícils de depurar.
+-Requereix d'un software per interpretar les instruccions del procesador.
+-No todos los software es troben disponibles en totes les plataformes.
 
 
 
