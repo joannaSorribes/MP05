@@ -38,32 +38,28 @@ l'extensio és importantíssima, després entrem a l'arxiu i posem el codi.
      
  }
 ```
-Guardem l’arxiu i obrim la terminal i al fer el build o el run em donava error 
+Guardem l’arxiu i obrim la terminal i al fer el build o el run em donava error
+![](s_1.png)![s_1](https://user-images.githubusercontent.com/113586183/194256428-689c3691-89fe-4ddb-80dc-aa650a7b08c4.png)
+
 
 
 El que he fet ha sigut instal·lar el "golang-go" i ara si l'he pogut executar creant l'executable amb build
 
-////////////////////
-
-
-
-
-
-
-
-
+![](S_2.png)![S_2](https://user-images.githubusercontent.com/113586183/194257635-c84c1ca8-9303-45c6-8a6c-b26f9621575a.png)
 
 
 
 ● Descriviu com passar de codi font a codi objecte.
-Per poder passar de codi font a codi objecte el que farem sera la comanda “go build dado.go”
 
+Per poder passar de codi font a codi objecte el que farem sera la comanda “go build dado.go”
+![](s_3.png)![s_3](https://user-images.githubusercontent.com/113586183/194257767-9ea12bb4-2c7d-4b54-a3ec-d044912c5cd3.png)
 
 
 
 
 ***Mostreu les extensions dels fitxers de codi font i codi objecte***
 
+![](s_4.png)![s_4](https://user-images.githubusercontent.com/113586183/194257883-9b0832dc-bf10-4e70-990f-a05773701f7b.png)
 
 
 
@@ -127,7 +123,7 @@ Instal·lem l'extensió python
 
 Un cop tenim l'extensió de Python instal·lada introduim el següent comandament : ``` python3 d6_Python.py``` i obtenim el resultat del programa.
 
-![python](2.png)![2](https://user-images.githubusercontent.com/113586183/194021919-46bbc921-4ded-47da-a0bb-9fe0cdb62d90.png)
+![](2.png)![2](https://user-images.githubusercontent.com/113586183/194021919-46bbc921-4ded-47da-a0bb-9fe0cdb62d90.png)
 
 
 
