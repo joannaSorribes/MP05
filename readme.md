@@ -246,21 +246,23 @@ Com hem explicat anteriorment és un llenguatge de programació que s’utilitza
 
 ## Exemple Codi
 
-`import Foundation`
+```
+import Foundation
  
-`print("Hola, món!")`
-`Hola, món!`
+print("Hola, món!")
+Hola, món!
 
-`import Foundation`
+import Foundation
  
-`print("Introdueix user")`
+print("Introdueix user")
  
-`var username = readLine()!`
+var username = readLine()!
  
-`print(username)`
+print(username)
 
-`Introdueix usuari`
-`nil`
+Introdueix usuari
+nil
+```
 
 
 ## Ofertes de Treball
@@ -285,3 +287,4 @@ https://www.startechup.com/es/blog/objective-c-vs-swift-which-programming-langua
 https://www.tokioschool.com/noticias/lenguaje-programacion-swift/
 
 
+T'ha fallat una mica el Markdown, falta dir si JAVA i SWIFT són interpretats, compilats o utilitzen màquina virtual.
