@@ -44,7 +44,7 @@ public class proves {
 ```
 
   - **Diagrama:**
-  -![image](https://user-images.githubusercontent.com/113586183/204746399-5012c044-0310-42cd-a80e-d6885346cc33.png)
+![imatge](https://user-images.githubusercontent.com/113586183/204762562-9d51bffa-0e63-4d4b-bbf5-e36a49439567.png)
 -**Complexitat ciclomàtica = nombre de sentencies condicionals + 1
   - **Resultat CC:** 4 + 1 =5
   - **Resultat proves camins:**  
@@ -52,6 +52,7 @@ public class proves {
   - SI T ÉS < 10 (0 A 9) = ROBA MUNTANYA
   - SI T ÉS < 20 (10 A 19) = ROBA HIVERN
   - SI T ÉS < 30 (20 A 29)= ROBA ESTIU
+  - SI ÉS MAJOR DE 30 QUEDA'T A CASA
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
