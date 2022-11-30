@@ -76,7 +76,7 @@ public class proves {
 5. Investiga sobre les proves de caixa negra:
 
   **Què són?**
-  - Normalment són les proves que fan els usuaris, proves alfa i beta. Els usuarios no saben com funciona internament l'objeste o element. Ex un televisor o un cotxe. L'usuari comprova que un tv sintonitze els canals, puje el volum... una persona que vol comprar un cotxe comprovarà que s'enjagui lo motor, funcionen les llums, etc.
+  - Normalment són les proves que fan els usuaris, proves alfa i beta. Els usuaris no saben com funciona internament l'objeste o element. Ex un televisor o un cotxe. L'usuari comprova que un tv sintonitze els canals, puje el volum... una persona que vol comprar un cotxe comprovarà que s'enjagui lo motor, funcionen les llums, etc.
    
   **Quina diferència principal tenen sobre les de caixa blanca?**
   - La principal diferència és que en la caixa blanca es sap i es veu el seu funcionament de manera interna, com ho faria un mecànic o tècnic d'aparells electrónics, i en la caixa negra no se sap com funciona però es porba que funcioni de la manera en que s'espera que ho faci.
