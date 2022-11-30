@@ -45,8 +45,8 @@ public class proves {
 
   - **Diagrama:**
   -![image](https://user-images.githubusercontent.com/113586183/204746399-5012c044-0310-42cd-a80e-d6885346cc33.png)
-
-  - **Resultat CC:** 9 - 10 + 2 = 3
+-**Complexitat ciclomàtica = nombre de sentencies condicionals + 1
+  - **Resultat CC:** 4 + 1 =5
   - **Resultat proves camins:**  
   - SI T ÉS < 0 (DE -1 A ?)= ROBA ESQUI
   - SI T ÉS < 10 (0 A 9) = ROBA MUNTANYA
@@ -66,7 +66,7 @@ public class proves {
 ```
   - **Diagrama:**![image](https://user-images.githubusercontent.com/113586183/204750401-ac88562a-0caf-4f7c-8475-a489339aee8c.png)
 
-  - **Resultat CC:**  8-7+ 2 = 3
+  - **Resultat CC:**  4 + 1 = 5
   - **Resultat proves camins:**
   - SI L'HORA ÉS <= 8 LLUMS ON
   - SI L'HORA ÉS >= 20 LLUMS ON
