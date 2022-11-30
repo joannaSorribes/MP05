@@ -46,7 +46,12 @@ public class proves {
   - **Diagrama:**
   -![image](https://user-images.githubusercontent.com/113586183/204746399-5012c044-0310-42cd-a80e-d6885346cc33.png)
 
-  - **Resultat CC:**
+  - **Resultat CC:** 9 - 10 + 2 = 3
+  - **Resultat proves camins:**  
+  - SI T ÉS < 0 (DE -1 A ?)= ROBA ESQUI
+  - SI T ÉS < 10 (0 A 9) = ROBA MUNTANYA
+  - SI T ÉS < 20 (10 A 19) = ROBA HIVERN
+  - SI T ÉS < 30 (20 A 29)= ROBA ESTIU
 
 4. Dibuixa el diagrama de flux representat per aquest codi, calcula la seva CC i crea una prova per a cada camí posible:
 
@@ -59,11 +64,19 @@ public class proves {
         return llums;
     }
 ```
-  - **Diagrama:**
-  - **Resultat CC:**
+  - **Diagrama:**![image](https://user-images.githubusercontent.com/113586183/204750401-ac88562a-0caf-4f7c-8475-a489339aee8c.png)
+
+  - **Resultat CC:**  8-7+ 2 = 3
   - **Resultat proves camins:**
+  - SI L'HORA ÉS <= 8 LLUMS ON
+  - SI L'HORA ÉS >= 20 LLUMS ON
+  - SI L'HORA ÉS > 8 LLUMS OFF
+  - SI L'HORA < 20 = LLUMS OFF
 
 5. Investiga sobre les proves de caixa negra:
 
-  - Què són?
-  - Quina diferència principal tenen sobre les de caixa blanca?
+  **Què són?**
+  - Normalment són les proves que fan els usuaris, proves alfa i beta. Els usuarios no saben com funciona internament l'objeste o element. Ex un televisor o un cotxe. L'usuari comprova que un tv sintonitze els canals, puje el volum... una persona que vol comprar un cotxe comprovarà que s'enjagui lo motor, funcionen les llums, etc.
+   
+  **Quina diferència principal tenen sobre les de caixa blanca?**
+  - La principal diferència és que en la caixa blanca es sap i es veu el seu funcionament de manera interna, com ho faria un mecànic o tècnic d'aparells electrónics, i en la caixa negra no se sap com funciona però es porba que funcioni de la manera en que s'espera que ho faci.
