@@ -9,7 +9,7 @@ Per dibuixar els diagrames de flux podeu fer servir [draw.io](https://draw.io) o
 
   - **Resultat 1:**   16 - 14 + 2 = 4
   - **Resultat 2:**   16 - 14 + 2 = 4
-  - **Resultat 3:**      -    +
+  - **Resultat 3:**    8 - 6  + 2 = 4
 
 
 2. Dibuixa el diagrama de flux representat per aquest codi i després calcula la seva CC:
